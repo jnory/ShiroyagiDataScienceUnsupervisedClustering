@@ -1,0 +1,6 @@
+tex
+.DS_Store
+*ipynb*
+*.pdf
+!unsupervised_clustering.ipynb
+*.zip
